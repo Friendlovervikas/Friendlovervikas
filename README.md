@@ -1,7 +1,6 @@
-<img align=“right” alt="Coding” width="400" src="https://www.google.com/search?sca_esv=3feead5a8523d144&sxsrf=ADLYWIIgpzRU09e55jIYOZ9PzCKJOR8ewA:1736698852783&q=background+image+java&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOa0K08TrPholP8ECM8ELoq5GeRrUvU44UjKtPgUX-2DV1UQVKIioKq9YP8hjr2s4XGUs7BYUWgrA1zGzjnSuLz0Rv9SOxJBYa2HuYoyuz0gUJ8I_0DE-GtDv_SDOIZzgEUF8lIMmGKJCeFzaPcqEnsoKlWNMQ&sa=X&ved=2ahUKEwiwxM6xy_CKAxXW1jgGHVZCEiIQtKgLegQIFBAB&biw=1440&bih=778&dpr=2#vhid=lgKoINJfXb-wwM&vssid=mosaic”>
 <h1 align="center">Hi 👋, I'm VIKAS YADAV</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align=“right” alt="Coding” width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align=“right” alt="Coding” width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friendlovervikas&label=Profile%20views&color=0e75b6&style=flat" alt="friendlovervikas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
